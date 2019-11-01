@@ -1,0 +1,41 @@
+.fl-rt {
+    float: right;
+}
+.fl-lt {
+    float: left;
+}
+.form-login {
+    margin: 150px auto;
+    padding: 20px;
+    background: #fff;
+    width: 500px;
+}
+.form-login fieldset p,
+.form-login .btn-submit-container {
+    margin-top: 15px;
+}
+.form-login fieldset label {
+    margin: 0;
+    width: 30%;
+}
+.form-login .message,
+.form-login fieldset label em {
+    color: red;
+}
+.form-login fieldset input {
+    margin: 0;
+    width: 70%;
+}
+.form-login .btn-submit {
+    padding: 5px 25px;
+}
+.form-login .btn-submit-container {
+    text-align: center;
+}
+.is-valid {
+    border: 1px solid green;
+}
+
+.not-valid {
+    border: 1px solid red;
+}
